@@ -1,0 +1,19 @@
+.listpurchase{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.Purchase{
+  font-style: italic;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.sch{
+  font-style: italic;
+  text-decoration: underline;
+}
